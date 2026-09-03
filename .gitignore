@@ -1,0 +1,57 @@
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+node_modules/
+.venv/
+venv/
+env/
+ENV/
+pip-wheel-metadata/
+*.egg-info/
+
+# Dados locais do servidor e bancos SQLite
+*.db
+*.db-*
+*.sqlite
+*.sqlite3
+*.sqlite-*
+*.sqlite3-*
+data/
+
+# Segredos e configurações locais
+.env
+.env.*
+!.env.example
+
+# Logs, caches e artefatos de ferramentas
+*.log
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+htmlcov/
+.hypothesis/
+coverage.xml
+build/
+dist/
+
+# Configurações locais do editor e arquivos de backup
+.vscode/
+*.bak
+*.swp
+*.swo
+
+# Worktrees de sessões do Claude Code
+.claude/
+
+.vscode/
+index.html.bak

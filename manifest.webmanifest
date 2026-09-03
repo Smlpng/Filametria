@@ -1,0 +1,20 @@
+{
+  "name": "Filametria — preços de impressão 3D",
+  "short_name": "Filametria",
+  "description": "Calculadora de preços para impressão 3D: custo real, margens, portes e orçamento para o cliente.",
+  "lang": "pt-BR",
+  "dir": "ltr",
+  "start_url": "./",
+  "scope": "./",
+  "id": "/filametria/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0e1116",
+  "theme_color": "#0e1116",
+  "categories": ["business", "productivity", "utilities"],
+  "icons": [
+    { "src": "Filametria Logo 192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "Filametria Logo 512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "Filametria Logo 512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
